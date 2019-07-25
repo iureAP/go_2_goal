@@ -8,6 +8,7 @@ Firstly make sure that you already haved to maked the ros tutorials it can be fi
 
 # Running the go_2_goal ROS Node
 1. Copy the contents of the src folder into your catkin workspace 'src' folder. Make sure the permissions are set to o+rw on your files and directories.
+
 2. in yout catkin_ws ($CATKIN) folder, execute
     ```sh
     $ catkin_make
