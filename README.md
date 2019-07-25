@@ -4,7 +4,7 @@ This code make possible that you set a target coordinates and next the ***turtle
 
 # Prerequisites
 
-Firstly make sure that you already haved to maked the ros tutorials it can be find at <wiki.ros.org/pt_BR/ROS/Tutorials> .
+Firstly make sure that you already haved to maked the ros tutorials it can be find at [ROS Tutorials](wiki.ros.org/pt_BR/ROS/Tutorials) .
 
 # Running the go_2_goal ROS Node
 1. Copy the contents of the src folder into your catkin workspace 'src' folder. Make sure the permissions are set to o+rw on your files and directories.
