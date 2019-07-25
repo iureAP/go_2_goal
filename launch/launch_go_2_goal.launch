@@ -1,0 +1,8 @@
+<launch>
+    <node pkg = "turtlesim" name = "sim" type = "turtlesim_node"/>
+    <node pkg = "turtlesim_go2goal" name = "go_2_goal" type = "go_2_goal.py" output = "screen">
+        <param name = "velocity_constant" value = "1.5" type = "double"/>
+        <param name = "angular_constant" value = "6.0" type = "double"/>     
+    </node>
+
+</launch>   
